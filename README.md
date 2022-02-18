@@ -18,8 +18,7 @@ iOSDialogBuilder(this@MainActivity)
         ) { dialog -> dialog.dismiss() }
         .build().show()
    ```
-        
-       ![Screenshot_1645182528](https://user-images.githubusercontent.com/99962380/154671672-26d43fbe-0eae-41d2-846b-1a71105af07a.png)
+    
 
         
 For Creating one button dialog ->
@@ -36,6 +35,8 @@ iOSDialogBuilder(this@MainActivity)
             Toast.makeText(this@MainActivity, "Clicked!", Toast.LENGTH_LONG).show()
             dialog.dismiss()
         }
-        .build().show()
+        .build().show()```
 
-        ![Screenshot_1645182528](https://user-images.githubusercontent.com/99962380/154671644-22645206-b3f4-4e2b-a6bc-6d09e2feff1a.png)
+![Screenshot_1645182524](https://user-images.githubusercontent.com/99962380/154672313-a31d7743-998c-4e85-8006-c3a36c1a5d83.png)
+
+
