@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" >IOSDialog</string>
+    <string name="example_title" >IOS Dialog</string>
+    <string name="example_subtitle" >This is a dialog like IOS</string>
+    <string name="ok" >Ok</string>
+    <string name="dismiss" >Dismiss</string>
+    <string name="one_button_dialog" >One Button Dialog</string>
+    <string name="two_button_dialog" >Two Button Dialog</string>
+</resources>

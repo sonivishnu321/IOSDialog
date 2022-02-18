@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/oneBtnDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/one_button_dialog"
+        android:background="@color/purple_500"
+        android:textColor="@color/white"
+        android:padding="10dp"
+        android:textSize="16sp"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/twoBtnDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/two_button_dialog"
+        android:background="@color/purple_500"
+        android:textColor="@color/white"
+        android:padding="10dp"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>
