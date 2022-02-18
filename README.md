@@ -18,9 +18,8 @@ iOSDialogBuilder(this@MainActivity)
         ) { dialog -> dialog.dismiss() }
         .build().show()
    ```
-        ![Screenshot_1645182528](https://user-images.githubusercontent.com/99962380/154671672-26d43fbe-0eae-41d2-846b-1a71105af07a.png)
-
         
+       
         
 For Creating one button dialog ->
 ```
@@ -37,5 +36,5 @@ iOSDialogBuilder(this@MainActivity)
             dialog.dismiss()
         }
         .build().show()
- ```
+
         ![Screenshot_1645182528](https://user-images.githubusercontent.com/99962380/154671644-22645206-b3f4-4e2b-a6bc-6d09e2feff1a.png)
