@@ -19,7 +19,8 @@ iOSDialogBuilder(this@MainActivity)
         .build().show()
    ```
         
-       
+       ![Screenshot_1645182528](https://user-images.githubusercontent.com/99962380/154671672-26d43fbe-0eae-41d2-846b-1a71105af07a.png)
+
         
 For Creating one button dialog ->
 ```
